@@ -12,3 +12,4 @@ Most of these are made by politically active ppl for mostly political reasons, s
 ## misc
 - internships - https://ratnaanimesh.github.io/intern/
 - what room is free - https://what-room-is-free.vercel.app/
+- math assoc articles - https://substack.com/@mathematicsassocbitspilani (I'm not in math assoc, I just like their stuff)
