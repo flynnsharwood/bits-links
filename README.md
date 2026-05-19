@@ -13,3 +13,4 @@ Most of these are made by politically active ppl for mostly political reasons, s
 - internships - https://ratnaanimesh.github.io/intern/
 - what room is free - https://what-room-is-free.vercel.app/
 - math assoc articles - https://substack.com/@mathematicsassocbitspilani (I'm not in math assoc, I just like their stuff)
+- wifi auto login. (I personally don't trust it, nor do I feel like using it, but some of you might) - https://github.com/Arcco-Chakraborty/fortiguard-autologin/releases/latest
